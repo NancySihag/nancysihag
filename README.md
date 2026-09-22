@@ -1,27 +1,58 @@
 # Hi, I'm Nancy Sihag 👋
 
-### BCA Student | Python Developer | AI & Automation
+### Python Developer | AI Automation | Full-Stack Development
 
-I build practical software applications using Python, Flask,
-AI APIs, automation, and data processing.
+I’m a BCA student building practical software projects with Python,
+Flask, AI APIs, automation, and web technologies.
 
-Currently focused on:
-- Python development
-- AI-powered applications
-- Backend development
-- Automation
-- Data processing
+I enjoy building tools that solve real-world problems and turning
+ideas into working applications.
 
-### Tech Stack
+## 🚀 What I'm Working On
 
-Python • C++ • Flask • SQL • Git • GitHub • Streamlit • REST APIs
+- 🐍 Python & Flask applications
+- 🤖 AI-powered tools and automation
+- 🌐 Full-stack web applications
+- 📊 Data processing and business automation
 
-### Featured Projects
+## 🛠️ Tech Stack
 
-🚀 AI Resume Analyzer
-🤖 AI Content Repurposer
-⚙️ AI Sales Automation
+### Languages
+Python • C++ • Java • HTML • CSS
 
-### Currently Looking For
+### Frameworks & Tools
+Flask • Streamlit • Git • GitHub • REST APIs
 
-Software Engineering / Python / AI / Full-Stack Internships
+### Databases
+SQLite • PostgreSQL
+
+### AI & Automation
+AI APIs • Prompt Engineering • Automation
+
+## 📌 Featured Projects
+
+### 🤖 AI Resume Analyzer
+AI-powered resume analysis and ATS-style feedback.
+
+### 📈 AI Sales Automation
+Business automation system for analyzing opportunities
+and generating actionable insights.
+
+### 📧 Auto Email Responder
+Python-based email automation application.
+
+### 🔎 LinkedIn Lead Generator
+Automation tool for collecting and organizing potential leads.
+
+### 🕷️ Yellow Pages Business Scraper
+Python web scraping application for collecting business data.
+
+### ♻️ AI Content Repurposer
+AI-powered tool for transforming content into different formats.
+
+## 🎯 Career Goal
+
+Looking for opportunities to work on Python, AI automation,
+backend, and full-stack development projects.
+
+📫 Open to remote software engineering and AI/full-stack internships.
