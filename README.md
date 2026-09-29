@@ -219,7 +219,7 @@ I'm looking to gain practical experience by contributing to real-world software 
 
 🐙 **GitHub:** [NancySihag](https://github.com/NancySihag)
 
-💼 **LinkedIn:** [linkedin.com/in/nancy-sihag]
+💼 **LinkedIn:** [NancySihag](linkedin.com/in/nancy-sihag)
 
 📧 **Email:** nancysihag631@gmail.com
 
