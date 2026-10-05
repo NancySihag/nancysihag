@@ -18,5 +18,6 @@ Tech
 Python • Flask • Streamlit • HTML/CSS • JavaScript
 Git • GitHub • APIs • SQLite
 
-🌐 Portfolio: [your portfolio]
+🌐 Portfolio: [http://localhost:8000/Nancy%20Portfolio/]
+
 💼 LinkedIn: [www.linkedin.com/in/nancy-sihag]
