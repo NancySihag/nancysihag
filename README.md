@@ -33,6 +33,6 @@ BCA Student & Developer
 • APIs 
 • SQLite
 
-🌐 **Portfolio**: [http://localhost:8000/Nancy%20Portfolio/]
+🌐 **Portfolio**: [https://nancy-portfolio-three.vercel.app/]
 
 💼 **LinkedIn**: [www.linkedin.com/in/nancy-sihag]
