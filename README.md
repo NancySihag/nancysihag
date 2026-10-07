@@ -1,23 +1,26 @@
-Hi, I'm Nancy 👋
+Hi, I'm **Nancy**👋
 
 BCA Student & Developer
 
-I build:
+**I build**:
+
 🐍 Python applications & automation
+
 🤖 AI-powered tools
+
 🌐 Business websites
 
-Featured Projects
+**Featured Projects**
 • Bean & Bloom — Business Website
 • AI Resume Analyzer
 • AI Sales Automation
 • AI Content Repurposer
 • AI Email Responder
 
-Tech
+**Tech**
 Python • Flask • Streamlit • HTML/CSS • JavaScript
 Git • GitHub • APIs • SQLite
 
-🌐 Portfolio: [http://localhost:8000/Nancy%20Portfolio/]
+🌐 **Portfolio**: [http://localhost:8000/Nancy%20Portfolio/]
 
-💼 LinkedIn: [www.linkedin.com/in/nancy-sihag]
+💼 **LinkedIn**: [www.linkedin.com/in/nancy-sihag]
