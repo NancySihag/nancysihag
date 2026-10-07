@@ -1,38 +1,122 @@
-Hi, I'm **Nancy**👋
+# Hi, I'm Nancy Sihag 👋
 
-BCA Student & Developer
+### Python Developer | AI & Automation | Web Development
 
-**I build**:
+I'm a BCA student and Python developer focused on building practical AI-powered applications, automation tools, and modern web experiences.
 
-🐍 Python applications & automation
+I enjoy turning ideas into working projects using Python, AI APIs, automation, and web technologies.
 
-🤖 AI-powered tools
+---
 
-🌐 Business websites
+## 🚀 What I Build
 
-**Featured Projects**
+- 🤖 AI-powered applications
+- 🐍 Python automation tools
+- 🌐 Web applications and websites
+- 📊 Data and Excel automation
+- ⚡ AI automation workflows
+- 🔧 Developer tools and productivity solutions
 
-• Bean & Bloom — Business Website
+---
 
-• AI Resume Analyzer
+## 🛠️ Tech Stack
 
-• AI Sales Automation
+**Languages**
+- Python
+- C++
+- Java
+- JavaScript
 
-• AI Content Repurposer
+**Web Development**
+- HTML
+- CSS
+- JavaScript
+- Flask
+- Streamlit
 
-• AI Email Responder
+**AI & Automation**
+- OpenAI API
+- Ollama
+- AI Automation
+- Prompt Engineering
 
-**Tech**
-• Python 
-• Flask 
-• Streamlit 
-• HTML/CSS 
-• JavaScript
-• Git 
-• GitHub 
-• APIs 
-• SQLite
+**Data & Tools**
+- Pandas
+- Excel
+- SQLite
+- Pytest
+- Git
+- GitHub
 
-🌐 **Portfolio**: [https://nancy-portfolio-three.vercel.app/]
+**Cloud & Deployment**
+- Microsoft Azure
+- Render
+- Streamlit Cloud
+- Vercel
 
-💼 **LinkedIn**: [www.linkedin.com/in/nancy-sihag]
+---
+
+## ⭐ Featured Projects
+
+### 🤖 AI Resume Analyzer
+AI-powered resume analysis and job-role matching application.
+
+**Tech:** Python, Streamlit, PyPDF2
+
+🔗 [GitHub Repository](https://github.com/NancySihag/ai_resume_analyzer)  
+🌐 [Live Demo](https://nancy-ai-resume-analyzer.streamlit.app)
+
+---
+
+### 💰 AI Sales Automation & Financial Modeling Suite
+AI-powered sales automation system with financial modeling, proposal generation, and automated workflows.
+
+**Tech:** Python, Streamlit, Pandas, Pytest
+
+🔗 [GitHub Repository](https://github.com/NancySihag/ai_sales_automation)
+
+---
+
+### 📝 AI Content Repurposer
+Transforms long-form content into multiple social-media-ready posts using AI.
+
+**Tech:** Python, Streamlit, Ollama
+
+🔗 [GitHub Repository](https://github.com/NancySihag/ai_content_repurposer_pro)
+
+---
+
+### ☕ Bean & Bloom Café
+Modern café website with an AI chatbot and Flask backend.
+
+**Tech:** HTML, CSS, JavaScript, Flask, Ollama
+
+🔗 [GitHub Repository](https://github.com/NancySihag/bean-bloom-cafe)  
+🌐 [Live Website](https://bean-bloom-cafe-psi.vercel.app)
+
+---
+
+## 📜 Certifications
+
+- Microsoft Azure Essentials Professional Certificate — Microsoft & LinkedIn
+- Introduction to Generative AI — Google
+- Introduction to Security Principles in Cloud Computing — Google
+- Software Engineering Job Simulation — Forage
+- Identity and Access Management (IAM) Fundamentals — Forage
+- Cybersecurity Analyst Job Simulation — Forage
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nancy-sihag)
+- 💻 [GitHub](https://github.com/NancySihag)
+-🌐 [Portfolio](https://nancy-portfolio-three.vercel.app/)
+---
+
+### 💡 Currently interested in
+
+**Software Engineering Internships • Python Development • AI/ML • Full-Stack Development • AI Automation**
+
+
+
